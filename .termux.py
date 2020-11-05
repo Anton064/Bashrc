@@ -41,4 +41,3 @@ Subscribing to additional repositories:
 
 Report issues at {cy}https://termux.com/issues{wh}
 """)
-print("")
