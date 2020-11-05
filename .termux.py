@@ -8,13 +8,15 @@ gr ="\033[1;32m"
 cy ="\033[1;36m"
 sn ="\033[1;35m"
 
-information = "Администратор"
+information = "Error"
 
 print(f"""
 Welcome to Termux!
+
 👤 Администратор
 👤 USER_NAME: Anton
-"""+ information +"""
+
+"""+ information + f"""
 
 
 Wiki:            {cy}https://wiki.termux.com{wh}
