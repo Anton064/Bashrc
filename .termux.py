@@ -18,7 +18,7 @@ Welcome to Termux!
 |👤 USER_NAME: Anton|
 |___________________|
 
-Актив розроботчика: {re}"""+ information + f"""{wh}
+Administrator: {re}"""+ information + f"""{wh}
 
 
 Wiki:            {cy}https://wiki.termux.com{wh}
