@@ -10,6 +10,7 @@ sn ="\033[1;35m"
 
 print(f"""
 Welcome to Termux!
+Hello github.com 30813663
 
 Wiki:            {cy}https://wiki.termux.com{wh}
 Community forum: {cy}https://termux.com/community{wh}
