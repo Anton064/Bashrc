@@ -10,7 +10,7 @@ sn ="\033[1;35m"
 
 print(f"""
 Welcome to Termux!
-Termux upgrade
+👤 Саша
 
 
 Wiki:            {cy}https://wiki.termux.com{wh}
