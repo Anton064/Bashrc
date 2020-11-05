@@ -12,7 +12,8 @@ information = "Администратор"
 
 print(f"""
 Welcome to Termux!
-👤 Пользователь: Anton
+👤 Администратор
+👤 USER_NAME: Anton
 """+ information +"""
 
 
