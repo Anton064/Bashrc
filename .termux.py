@@ -8,7 +8,7 @@ gr ="\033[1;32m"
 cy ="\033[1;36m"
 sn ="\033[1;35m"
 
-information = "No online"
+information = "Offline"
 
 print(f"""
 Welcome to Termux!
