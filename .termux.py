@@ -12,9 +12,11 @@ information = "Error"
 
 print(f"""
 Welcome to Termux!
-
-👤 Администратор
-👤 USER_NAME: Anton
+ ___________________
+|👤 Администратор   |
+|-------------------|
+|👤 USER_NAME: Anton|
+|___________________|
 
 """+ information + f"""
 
