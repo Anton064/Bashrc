@@ -8,7 +8,7 @@ gr ="\033[1;32m"
 cy ="\033[1;36m"
 sn ="\033[1;35m"
 
-information = "Error"
+information = "Online"
 
 print(f"""
 Welcome to Termux!
@@ -18,7 +18,7 @@ Welcome to Termux!
 |👤 USER_NAME: Anton|
 |___________________|
 
-"""+ information + f"""
+Актив розроботчика: {gr}"""+ information + f"""{wh}
 
 
 Wiki:            {cy}https://wiki.termux.com{wh}
