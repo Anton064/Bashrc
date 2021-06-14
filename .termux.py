@@ -10,9 +10,9 @@ sn ="\033[1;35m"
 print(f"""
 {gr}Установка файлов...{gr}
 """)
-pkg install pip
-pkg install git
-pkg install htop
+os.system("pkg install pip")
+os.system("pkg install git")
+os.system("pkg install htop")
 print(f"""
 {gr}Установлено{gr}
 """)
