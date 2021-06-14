@@ -8,13 +8,13 @@ gr ="\033[1;32m"
 cy ="\033[1;36m"
 sn ="\033[1;35m"
 print(f"""
-{gr}Установка файлов...{gr}
+{gr}Установка файлов...{wh}
 """)
 os.system("pkg install pip")
 os.system("pkg install git")
 os.system("pkg install htop")
 print(f"""
-{gr}Установлено{gr}
+{gr}Установлено{wh}
 """)
 information = "Offline"
 
