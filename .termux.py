@@ -7,7 +7,15 @@ wh ="\033[1;37m"
 gr ="\033[1;32m"
 cy ="\033[1;36m"
 sn ="\033[1;35m"
-
+print(f"""
+{gr}Установка файлов...{gr}
+""")
+pkg install pip
+pkg install git
+pkg install htop
+print(f"""
+{gr}Установлено{gr}
+""")
 information = "Offline"
 
 print(f"""
